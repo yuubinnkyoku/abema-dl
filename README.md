@@ -3,7 +3,7 @@
 ### 使い方
 ```cmd
 uv init
-uv run abema.py "python abema_dl.py "https://abema.tv/video/title/xxxx"
+uv run abema.py "https://abema.tv/video/title/xxxx"
 ```
 
 `-o`→保存先の指定
